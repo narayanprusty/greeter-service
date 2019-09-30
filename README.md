@@ -21,9 +21,6 @@ docker build -t greeter .
 docker run -p 5000:5000 greeter
 ```
 
-# Kubernetes Deployment and Service
-
-```
 
 # Kubernetes Deployment and Service
 
